@@ -1,2 +1,3 @@
 *.ipynb_checkpoints
-intro_to_statistics.code-workspace
+*.code-workspace
+*.vscode
